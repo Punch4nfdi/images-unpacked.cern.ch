@@ -48,3 +48,4 @@ input:
     - 'https://nvcr.io/nvidia/tritonserver:24.11-py3'
     - 'https://registry.hub.docker.com/yongbinfeng/tritonserver:rhel8.9_v4'
     - 'https://registry.hub.docker.com/vllm/vllm-openai:latest'
+    - 'https://gitlab-p4n.aip.de:5005/compute4punch/container-stacks-v2/snakemake-wn:v0.0.0'
