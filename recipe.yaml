@@ -53,3 +53,4 @@ input:
     - 'https://registry.hub.docker.com/xlzdg3/xlzd_sandbox_offline_release:latest'
     - 'https://ghcr.io/jopkass/danceq_docker_dev:main'
     - 'https://registry.hub.docker.com/sameriksen/eft_flamefit:latest'
+    - 'https://gitlab-p4n.aip.de:5005/compute4punch/container-stacks-v2/simulation-wn:latest'
